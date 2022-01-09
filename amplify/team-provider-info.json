@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mastersgolfpool-dev-100700-authRole",
+      "UnauthRoleArn": "arn:aws:iam::680422738117:role/amplify-mastersgolfpool-dev-100700-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::680422738117:role/amplify-mastersgolfpool-dev-100700-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-mastersgolfpool-dev-100700-deployment",
+      "UnauthRoleName": "amplify-mastersgolfpool-dev-100700-unauthRole",
+      "StackName": "amplify-mastersgolfpool-dev-100700",
+      "StackId": "arn:aws:cloudformation:ca-central-1:680422738117:stack/amplify-mastersgolfpool-dev-100700/cd452240-715d-11ec-bf58-0e7730700402",
+      "AmplifyAppId": "d2x8m08m1nuyz7"
+    }
+  }
+}
